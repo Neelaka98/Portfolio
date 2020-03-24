@@ -1,0 +1,54 @@
+html,body{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: 0;
+}
+header{
+    background-color: #00264d;
+    padding: 40px;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color: white;
+}
+header img{
+border-radius: 200px;
+width: 250px;
+border: 4px solid black;
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+img.big.image{
+    max-width: 100%;
+}
+
+p.caption{
+    font-size: 16px;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+footer ul li{
+    text-align: center;
+    display: inline-block;
+    margin: 0 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+footer a{
+    color: red;
+    text-decoration: none;
+}
+/*<header>
+<img src="img/profile.jpg">
+<h1>  Neelaka Ganegoda  </h1>
+</header>*/
